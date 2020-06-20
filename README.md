@@ -71,4 +71,5 @@ alias gcm="git commit "
 ```
 source ~/.profile
 
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 ```
