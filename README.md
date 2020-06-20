@@ -1,0 +1,2 @@
+# MadZshConfig
+My zsh configurations
